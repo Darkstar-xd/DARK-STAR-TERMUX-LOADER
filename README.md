@@ -9,6 +9,7 @@ Built for Termux | Fast | Powerful | Unique CLI Tool
 
 
 rm -rf https://github.com/Darkstar-xd/DARK-STAR-TERMUX-LOADER.git
+
 git clone https://github.com/Darkstar-xd/DARK-STAR-TERMUX-LOADER.git
 
 cd DARK-STAR-TERMUX-LOADER
