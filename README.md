@@ -1,5 +1,10 @@
 # DARK-STAR-TERMUX-LOADER  
 
+** How to Run
+
+
+
+
 ████████████████████████████████████████████████████████████████████
 █                                                                █
 █               ⭐ DARKSTAR PRO - ALL-IN-ONE FB TOOL ⭐           █
