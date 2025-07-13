@@ -1,6 +1,7 @@
 ## 🚀 How to Run 
 
-...copy
+...copy 
+
 rm -rf DARK-STAR-TERMUX-LOADER
 
 git clone https://github.com/Darkstar-xd/DARK-STAR-TERMUX-LOADER.git
