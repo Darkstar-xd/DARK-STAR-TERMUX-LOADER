@@ -2,6 +2,17 @@
 
 ** How to Run
 
+rm -rf https://github.com/Darkstar-xd/DARK-STAR-TERMUX-LOADER.git
+
+git clone https://github.com/Darkstar-xd/DARK-STAR-TERMUX-LOADER.git
+
+cd Darkstar-xd/DARK-STAR-TERMUX-LOADER
+
+ls
+
+pip install -r requirements.txt 
+
+python Run.py
 
 
 
