@@ -8,19 +8,15 @@ Built for Termux | Fast | Powerful | Unique CLI Tool
 ## 🚀 How to Run
 
 
-
 rm -rf https://github.com/Darkstar-xd/DARK-STAR-TERMUX-LOADER.git
-
 git clone https://github.com/Darkstar-xd/DARK-STAR-TERMUX-LOADER.git
 
-cd Darkstar-xd/DARK-STAR-TERMUX-LOADER
+cd DARK-STAR-TERMUX-LOADER
 
-ls 
-
-pip install -r requirements.txt
+ls
+pip install - requirements
 
 python Run.py
-
 
 
 ## Darkstar loader featurs
