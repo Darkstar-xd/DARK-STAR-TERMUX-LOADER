@@ -15,6 +15,7 @@ git clone https://github.com/Darkstar-xd/DARK-STAR-TERMUX-LOADER.git
 cd DARK-STAR-TERMUX-LOADER
 
 ls
+
 pip install -r requirements.txt
 
 python Run.py
