@@ -1,6 +1,6 @@
 # DARK-STAR-TERMUX-LOADER  
 
-*## 🚀 How to Run
+## 🚀 How to Run
 
 ```bash
 # Remove old repo if exists
@@ -15,12 +15,11 @@ cd Darkstar-xd/DARK-STAR-TERMUX-LOADER
 # List files to verify
 ls
 
-# Install requirements
+# Install dependencies
 pip install -r requirements.txt
 
 # Run the tool
 python Run.py
-
 
 
 ████████████████████████████████████████████████████████████████████
