@@ -8,7 +8,7 @@ Built for Termux | Fast | Powerful | Unique CLI Tool
 ## 🚀 How to Run
 
 
-rm -rf https://github.com/Darkstar-xd/DARK-STAR-TERMUX-LOADER.git
+rm -rf DARK-STAR-TERMUX-LOADER
 
 git clone https://github.com/Darkstar-xd/DARK-STAR-TERMUX-LOADER.git
 
