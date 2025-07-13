@@ -1,4 +1,9 @@
-# DARK-STAR-TERMUX-LOADER  
+# 🌌 DARK-STAR-TERMUX-LOADER  
+
+All-in-One Facebook Automation Tool using Python + Cython  
+Built for Termux | Fast | Powerful | Unique CLI Tool
+
+---
 
 ## 🚀 How to Run
 
@@ -22,73 +27,96 @@ pip install -r requirements.txt
 python Run.py
 
 
-## ⭐ DARKSTAR PRO - ALL-IN-ONE FB TOOL ⭐
+---
+
+⭐ DARKSTAR PRO - ALL-IN-ONE FB TOOL ⭐
+
 🔰 Version: 3.1.0
-🔰 Developed by: SAHIL KHAN
+🔰 Developer: SAHIL KHAN
 🔰 Language: Python + Cython (.so Optimized)
-
-════════════════════════════════════════════════════════════════════
-
-**📦 WHAT'S INSIDE?**
-
-✔ TOKEN CHECKER         - Validates FB tokens with name info  
-✔ COOKIES CHECKER       - Checks browser cookies status  
-✔ GC UID FINDER         - Finds Group Chat names & UIDs  
-✔ POST COMMENT BOT      - Auto-comments on Facebook posts  
-✔ CONVO MESSAGE SENDER  - Auto-send messages to group chats  
-✔ PAGE TOKEN EXTRACTOR  - Fetches access tokens of managed pages  
-✔ IP & TIME INFO BOXES  - Shows location, date & time  
-✔ PASSWORD PROTECTION   - Secure login system  
-✔ WHATSAPP APPROVAL     - Device approval via WhatsApp link  
-✔ STYLISH UI            - Colorful text, bold lines, clear layout  
-✔ HIGH SPEED            - Compiled `.so` for max performance  
-
-════════════════════════════════════════════════════════════════════
-
-**⚙ HOW TO INSTALL?**
-
-1. Install Termux packages:
-   pkg update && pkg upgrade  
-   pkg install python clang git
-
-2. Install Python libs:
-   pip install cython colorama requests pyfiglet rich
-
-3. Grant storage permission:
-   termux-setup-storage
+🔰 Platform: Termux / Android / Linux
 
 
-**🔐 SECURITY DETAILS**
+---
 
-🔑 Password        : AYAN__DALIT  
-📲 Approval System : WhatsApp auto-request will be sent  
-📌 One-time approval, saved for offline use  
+📦 FEATURES INCLUDED
 
-════════════════════════════════════════════════════════════════════
+✔ Token Checker – Validates FB tokens with name info
 
-**🧑‍💻 DEVELOPER INFO**
+✔ Cookies Checker – Checks browser cookies status
 
-👤 Name      : SAHIL KHAN  
-🌍 Facebook  : THW SAHIL  
-💻 GitHub    : S4H11LKH4N07  
-🤝 Brother   : ALEX KHAN  
+✔ GC UID Finder – Finds Group Chat names & UIDs
 
-════════════════════════════════════════════════════════════════════
+✔ Post Comment Bot – Auto-comments on Facebook posts
 
-**📁 OUTPUT FILES**
+✔ Convo Message Sender – Auto-send messages to group chats
 
-✔ run.py                     → Run launcher  
-✔ Darkstar_pro.cpython-*.so → Optimized speed module  
-✔ Readme.txt                 → This guide  
+✔ Page Token Extractor – Fetches access tokens of managed pages
 
-════════════════════════════════════════════════════════════════════
+✔ IP & Time  – Shows location, date & time
 
-**💬 NOTE**
+✔ Password Protected Access
 
-🔹 Fully auto — works after first approval  
-🔹 Single script – all features packed inside  
-🔹 Use `alias` for shortcut run  
-🔹 Designed for Termux / Linux users  
-🔹 For educational use only 🔒
+✔ Approval System (one-time device approval)
 
-════════════════════════════════════════════════════════════════════
+✔ Superfast Running Support 
+
+
+
+---
+
+⚙ HOW TO INSTALL
+
+pkg update && pkg upgrade
+pkg install python clang git
+pip install -r requirements.txt
+termux-setup-storage
+
+
+---
+
+🔐 SECURITY DETAILS
+
+🔑 Password: AYAN__DALIT
+
+📲 Approval System: Auto WhatsApp request on first run
+
+📌 Works offline after first-time approval
+
+
+
+---
+
+🧑‍💻 DEVELOPER INFO
+
+👤 Name: SAHIL KHAN
+🌍 Facebook: THW SAHIL
+💻 GitHub: S4H11LKH4N07
+🤝 Brother: ALEX KHAN
+
+
+---
+
+📁 FILES
+
+✔ run.py – Launcher script
+
+✔ Darkstar_pro.cpython-*.so – Compiled high-speed module
+
+✔ requirements.txt – All Python dependencies
+
+✔ Readme.txt / README.md – Guide and usage info
+
+
+
+---
+
+💬 NOTES
+
+🔹 All features are packed in one tool
+
+🔹 First run requires approval, then works offline
+
+🔹 Designed for educational and ethical use only
+
+🔹 Shortcut tip: use alias like alias darkstar
