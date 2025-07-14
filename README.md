@@ -1,4 +1,3 @@
-<img width="719" height="1329" alt="1000092459" src="https://github.com/user-attachments/assets/da658248-cdca-4ee4-9f07-c25090bb2c52" />
 ## 🚀 How to Run 
 
 ...copy 
@@ -10,6 +9,13 @@ git clone https://github.com/Darkstar-xd/DARK-STAR-TERMUX-LOADER.git
 cd DARK-STAR-TERMUX-LOADER
 
 ls
+
+# image 
+
+<img width="719" height="1329" alt="1000092459" src="https://github.com/user-attachments/assets/1208f36a-b3b3-412b-9114-81977932e61d" />
+
+
+
 
 # 🌌 DARK-STAR-TERMUX-LOADER  
 
