@@ -14,9 +14,16 @@ pip install -r requirements.txt
 
 python Run.py
 
+
+## PASWORD
+
+AYAN DALIT
+
+
 # image 
 
-<img width="719" height="994" alt="1000092476" src="https://github.com/user-attachments/assets/56023cfc-8a64-4981-9512-628192c5f55e" />
+<img width="719" height="996" alt="1000092479" src="https://github.com/user-attachments/assets/968036ad-3bea-47e3-841e-d1305e929986" />
+
 
 
 
@@ -84,9 +91,7 @@ termux-setup-storage
 
 # Encrypte Any Python Code 
 
-
-<img width="719" height="1329" alt="1000092459" src="https://github.com/user-attachments/assets/5c09d158-20dc-4bf4-b448-a7f6a41072a9" />
-
+<img width="719" height="1300" alt="1000092480" src="https://github.com/user-attachments/assets/6c7401dd-605b-494a-a851-a079d0a279a2" />
 
 
 
@@ -95,7 +100,7 @@ termux-setup-storage
 
 🔐 SECURITY DETAILS
 
-🔑 Password: AYAN__DALIT
+🔑 Password: AYAN DALIT
 
 📲 Approval System: Auto WhatsApp request on first run
 
