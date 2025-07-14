@@ -12,7 +12,8 @@ ls
 
 # image 
 
-![Uploading 1000092476.png…]()
+<img width="719" height="994" alt="1000092476" src="https://github.com/user-attachments/assets/56023cfc-8a64-4981-9512-628192c5f55e" />
+
 
 
 
@@ -74,6 +75,16 @@ pkg update && pkg upgrade
 pkg install python clang git
 pip install -r requirements.txt
 termux-setup-storage
+  
+
+
+# Encrypte Any Python Code 
+
+
+<img width="719" height="1329" alt="1000092459" src="https://github.com/user-attachments/assets/5c09d158-20dc-4bf4-b448-a7f6a41072a9" />
+
+
+
 
 
 ---
