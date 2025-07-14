@@ -31,7 +31,7 @@ python Run.py
 
 ## Darkstar loader featurs
 
-🔰 Version: 3.1.0
+🔰 Version: 3.2.0
 🔰 Developer: SAHIL KHAN
 🔰 Language: Python + Cython (.so Optimized)
 🔰 Platform: Termux / Android / Linux
@@ -51,7 +51,9 @@ python Run.py
 
 ✔ Convo Message Sender – Auto-send messages to group chats
 
-✔ Page Token Extractor – Fetches access tokens of managed pages
+✔ Page Token Extractor – Fetches access tokens of managed pages 
+
+✔ Encrypt Any Python Code  Zeliib+Marshal+Base64
 
 ✔ IP & Time  – Shows location, date & time
 
