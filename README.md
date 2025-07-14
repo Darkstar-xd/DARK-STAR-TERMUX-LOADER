@@ -12,7 +12,8 @@ ls
 
 # image 
 
-<img width="719" height="1329" alt="1000092459" src="https://github.com/user-attachments/assets/1208f36a-b3b3-412b-9114-81977932e61d" />
+![Uploading 1000092476.png…]()
+
 
 
 
