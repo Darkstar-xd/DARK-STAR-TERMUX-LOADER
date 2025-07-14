@@ -10,6 +10,10 @@ cd DARK-STAR-TERMUX-LOADER
 
 ls
 
+pip install -r requirements.txt
+
+python Run.py
+
 # image 
 
 <img width="719" height="994" alt="1000092476" src="https://github.com/user-attachments/assets/56023cfc-8a64-4981-9512-628192c5f55e" />
