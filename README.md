@@ -22,7 +22,8 @@ AYAN DALIT
 
 # image 
 
-<img width="719" height="996" alt="1000092479" src="https://github.com/user-attachments/assets/968036ad-3bea-47e3-841e-d1305e929986" />
+<img width="719" height="1067" alt="1000101839" src="https://github.com/user-attachments/assets/4e5a158f-e9d9-4e96-a744-ca5b1eecc5e8" />
+
 
 
 
