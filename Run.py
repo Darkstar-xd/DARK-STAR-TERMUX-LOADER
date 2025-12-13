@@ -14,7 +14,7 @@ except ImportError as e:
     print("🛑 Error:", e)
     sys.exit(1)
 
-# ✅ CORRECT ENTRY POINT
+# ✅ ENTRY POINT
 if hasattr(Ds75, "run"):
     Ds75.run()
 else:
