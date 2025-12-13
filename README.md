@@ -27,6 +27,13 @@ AYAN DALIT
 
 
 
+# How To Get Facebook Convo Token 
+
+# Run Tool And Choose 10 Number.     Option And Follow All Instructions then Enter Your Facebook credentials 
+
+# image 
+
+<img width="705" height="1088" alt="1000203759" src="https://github.com/user-attachments/assets/c67151fa-3a47-4586-8e15-5fa4c9ab7a28" />
 
 
 
