@@ -2,3 +2,5 @@ pyfiglet
 colorama
 requests
 rich
+pyotp
+pycryptodome
