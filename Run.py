@@ -1,2 +1,2 @@
-import Darkstar_Pro
-Darkstar_Pro.main()
+import Ds75
+Ds75.main()
