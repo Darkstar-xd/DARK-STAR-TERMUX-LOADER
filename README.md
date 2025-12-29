@@ -26,7 +26,7 @@ python Run.py
 
 # How To Get Facebook Convo Token 
 ---
-Run Tool And Choose 10 Number.     Option And Follow All Instructions then Enter Your Facebook credentials
+Run Tool And Choose 11 Number      Option And Follow All Instructions then Enter Your Facebook credentials
 ---
 
 # image 
@@ -36,6 +36,11 @@ Run Tool And Choose 10 Number.     Option And Follow All Instructions then Enter
 
 ---
 
+# Get EAABwz Token Bye Cookies 
+
+![1000210179](https://github.com/user-attachments/assets/1e1a791d-add3-4613-9e01-a3548ba506bc)
+
+----
 
 # 🌌 DARK-STAR-TERMUX-LOADER  
 
