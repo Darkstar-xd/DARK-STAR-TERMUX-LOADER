@@ -1,7 +1,8 @@
 ## 🚀 How to Run 
 
-   Copy 
--
+   copy
+   
+---
 
 rm -rf DARK-STAR-TERMUX-LOADER
 
