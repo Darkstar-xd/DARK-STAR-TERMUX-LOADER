@@ -15,10 +15,6 @@ pip install -r requirements.txt
 python Run.py
 
 
-## PASWORD
-
-AYAN DALIT
-
 
 # image 
 <img width="694" height="1141" alt="1000210196" src="https://github.com/user-attachments/assets/83ee8a6d-3f86-4301-859f-a5996ec87c04" />
