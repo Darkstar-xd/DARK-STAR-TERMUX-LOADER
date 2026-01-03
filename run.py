@@ -1,9 +1,13 @@
 # run.py
 
+import importlib.util
+
 print("[*] Loader started")
 
-try:
-    import obf_Da77
-    print("[+] obf_Da77 loaded successfully")
-except Exception as e:
-    print("[!] Error while loading obf_Da77:", e)
+path = "./obf-Da77.py"
+
+spec = importlib.util.spec_from_file_location("x", path)
+mod = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(mod)
+
+print("[+] obf-Da77.py loaded via importlib")
