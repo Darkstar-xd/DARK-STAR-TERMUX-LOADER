@@ -1,16 +1,32 @@
-import importlib.util
+import os
+import sys
 
-print("[*] Loader started")
-
+# File path
 path = "./obf-Da77.py"
 
-spec = importlib.util.spec_from_file_location("obf_mod", path)
-mod = importlib.util.module_from_spec(spec)
-spec.loader.exec_module(mod)
+print("[*] DARK-STAR Loader started")
 
-print("[+] obf-Da77.py loaded")
+if os.path.exists(path):
+    try:
+        # Obfuscated file ko read karein
+        with open(path, "r", encoding="utf-8") as f:
+            source_code = f.read()
+        
+        print("[+] Tool loaded into memory...")
 
-# Agar aap file ke andar ka 'execute' function chalana chahte hain:
-if hasattr(mod, '_cube'):
-    print("[*] Executing _cube logic...")
-    mod._cube.execute(code=mod.__code__)
+        # Environment setup: Taki obfuscated code ko lage wo direct chal raha hai
+        namespace = {
+            "__name__": "__main__",
+            "__file__": os.path.abspath(path),
+            "__package__": None,
+        }
+        
+        # Execute the obfuscated code
+        exec(source_code, namespace)
+
+    except KeyboardInterrupt:
+        print("\n[!] Stopped by user.")
+    except Exception as e:
+        print(f"[-] Error: {e}")
+else:
+    print(f"[-] File {path} not found!")
