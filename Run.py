@@ -1,3 +1,3 @@
-import Da78_obfu
+import Da77_obfu
 
-Da78_obfu.main()
+Da77_obfu.run()
