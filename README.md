@@ -25,7 +25,7 @@ python Run.py
 
 ---
 
-# Get All Fb Account 
+# Get All Fb Account Token 
 ---
 Run Darkstar Tool And Choose 15th option And Follow All instruction 
 
