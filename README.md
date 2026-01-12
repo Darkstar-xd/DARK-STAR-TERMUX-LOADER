@@ -19,7 +19,8 @@ python Run.py
 
 
 # image 
-<img width="694" height="1141" alt="1000210196" src="https://github.com/user-attachments/assets/83ee8a6d-3f86-4301-859f-a5996ec87c04" />
+![1000216518](https://github.com/user-attachments/assets/04924c3b-c44b-4a8d-8ee0-4d5e486c0f50)
+
 
 
 ---
