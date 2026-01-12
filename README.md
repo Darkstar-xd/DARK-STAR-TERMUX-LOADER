@@ -25,6 +25,12 @@ python Run.py
 
 ---
 
+# Get All Fb Account 
+---
+Run Darkstar Tool And Choose 15th option And Follow All instruction 
+
+![1000216444](https://github.com/user-attachments/assets/e98714b5-d284-439b-be17-7218a1a343ba)
+
 
 
 # How To Get Facebook Convo Token 
