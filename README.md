@@ -98,7 +98,6 @@ python Run.py
 ✔ Superfast Running Support 
 
 
-
 ---
 
 ⚙ HOW TO INSTALL
@@ -114,29 +113,6 @@ termux-setup-storage
 
 <img width="719" height="1300" alt="1000092480" src="https://github.com/user-attachments/assets/6c7401dd-605b-494a-a851-a079d0a279a2" />
 
-
-
-
----
-
-🔐 SECURITY DETAILS
-
-🔑 Password: AYAN DALIT
-
-📲 Approval System: Auto WhatsApp request on first run
-
-📌 Works offline after first-time approval
-
-
-
----
-
-🧑‍💻 DEVELOPER INFO
-
-👤 Name: SAHIL KHAN
-🌍 Facebook: THW SAHIL
-💻 GitHub: S4H11LKH4N07
-🤝 Brother: ALEX KHAN
 
 
 ---
