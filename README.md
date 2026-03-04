@@ -33,24 +33,26 @@ python Run.py
 
 # 🔑 Get All Fb Account Token
 
-Run Darkstar Tool And Choose 15th option And Follow All instruction
+Run Darkstar Tool And Choose 11th option And Follow All instruction
 
-![1000216444](https://github.com/user-attachments/assets/e98714b5-d284-439b-be17-7218a1a343ba)
+<img width="697" height="1482" alt="1000236385" src="https://github.com/user-attachments/assets/14516fe8-6db5-48f0-8915-53e71e1b1506" />
+
 
 ------------------------------------------------------------------------
 
 # 💬 How To Get Facebook Convo Token
 
-Run Tool And Choose 11 Number Option And Follow All Instructions then
+Run Tool And Choose 9th Number Option And Follow All Instructions then
 Enter Your Facebook credentials
 
-`<img width="705" height="1088" alt="1000203759" src="https://github.com/user-attachments/assets/c67151fa-3a47-4586-8e15-5fa4c9ab7a28" />`{=html}
+<img width="719" height="1287" alt="1000236384" src="https://github.com/user-attachments/assets/cf5c8bb9-899a-49c6-a4d3-cd7e8ea18b2b" />
+
 
 ------------------------------------------------------------------------
 
 # 🍪 Get EAABwz Token Bye Cookies
 
-![1000210179](https://github.com/user-attachments/assets/1e1a791d-add3-4613-9e01-a3548ba506bc)
+<img width="719" height="1287" alt="1000236386" src="https://github.com/user-attachments/assets/039c2a7b-bd50-4d1c-8f80-1d110a0d7f29" />
 
 ------------------------------------------------------------------------
 
@@ -98,11 +100,7 @@ pip install -r requirements.txt
 termux-setup-storage
 ```
 
-------------------------------------------------------------------------
 
-# 🔐 Encrypt Any Python Code
-
-`<img width="719" height="1300" alt="1000092480" src="https://github.com/user-attachments/assets/6c7401dd-605b-494a-a851-a079d0a279a2" />`{=html}
 
 ------------------------------------------------------------------------
 
@@ -110,7 +108,6 @@ termux-setup-storage
 
 ✔ Run.py -- Launcher script
 
-✔ Darkstar_pro.cpython-\*.so -- Compiled high-speed module
 
 ✔ requirements.txt -- All Python dependencies
 
