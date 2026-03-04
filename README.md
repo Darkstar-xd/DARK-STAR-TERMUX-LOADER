@@ -1,6 +1,6 @@
 # 🌌 DARK-STAR-TERMUX-LOADER
 
-All-in-One Facebook Automation Tool using Python + Cython\
+All-in-One Facebook Automation Tool using Python \
 Built for Termux \| Fast \| Powerful \| Unique CLI Tool
 
 ------------------------------------------------------------------------
@@ -27,7 +27,8 @@ python Run.py
 
 # 📸 Image
 
-![1000216518](https://github.com/user-attachments/assets/04924c3b-c44b-4a8d-8ee0-4d5e486c0f50)
+<img width="719" height="1298" alt="1000236387" src="https://github.com/user-attachments/assets/c586672f-0f18-4e8e-8b67-5e1c0b0aab75" />
+
 
 ------------------------------------------------------------------------
 
@@ -58,7 +59,7 @@ Enter Your Facebook credentials
 
 ## 🔰 Darkstar Loader Features
 
-🔰 Version: 3.2.0\
+🔰 Version: 𝟵.𝟬𝟴.𝟬𝟬𝟭\
 🔰 Developer: SAHIL KHAN\
 🔰 Language: Python + Cython (.so Optimized)\
 🔰 Platform: Termux / Android / Linux
@@ -79,7 +80,6 @@ Enter Your Facebook credentials
 
 ✔ Page Token Extractor -- Fetches access tokens of managed pages
 
-✔ Encrypt Any Python Code -- Zlib + Marshal + Base64
 
 ✔ IP & Time -- Shows location, date & time
 
