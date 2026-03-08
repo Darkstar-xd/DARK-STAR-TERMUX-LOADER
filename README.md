@@ -3,7 +3,7 @@
 All-in-One Facebook Automation Tool 
 Built for Termux \| Fast \| Powerful Tool
 
-developed by Darkstsrian boii Sahiil 
+
 ------------------------------------------------------------------------
 
 ## 🚀 How to Run
