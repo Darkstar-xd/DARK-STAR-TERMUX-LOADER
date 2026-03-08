@@ -1,8 +1,9 @@
-# 🌌 DARK-STAR-TERMUX-LOADER
+#  DARK-STAR-TERMUX-LOADER
 
-All-in-One Facebook Automation Tool using Python \
-Built for Termux \| Fast \| Powerful \| Unique CLI Tool
+All-in-One Facebook Automation Tool 
+Built for Termux \| Fast \| Powerful Tool
 
+developed by Darkstsrian boii Sahiil 
 ------------------------------------------------------------------------
 
 ## 🚀 How to Run
