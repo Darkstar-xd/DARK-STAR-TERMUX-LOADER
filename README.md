@@ -1,9 +1,10 @@
 #  DARK-STAR-TERMUX-LOADER
 
-All-in-One Facebook Automation Tool 
-Built for Termux \| Fast \| Powerful Tool
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF00FF&center=true&vCenter=true&width=700&lines=All-in-One Facebook Automation Tool 
+Built for Termux \| Fast \| Powerful Tool" />
 ------------------------------------------------------------------------
 
 
