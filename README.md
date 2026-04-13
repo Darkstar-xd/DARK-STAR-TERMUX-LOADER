@@ -1,7 +1,7 @@
 #  DARK-STAR-TERMUX-LOADER
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=10000&color=FF00FF&center=true&vCenter=true&width=700&lines=All-in-One+Facebook+Automation+Tool;Built+for+Termux+%7C+Fast+%7C+Powerful+Tool" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=10000&color=F8FF00&center=true&vCenter=true&width=700&lines=All-in-One+Facebook+Automation+Tool;Built+for+Termux+%7C+Fast+%7C+Powerful+Tool" />
 </p>
 
 
