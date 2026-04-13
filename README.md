@@ -6,6 +6,16 @@ Built for Termux \| Fast \| Powerful Tool
 
 ------------------------------------------------------------------------
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF00FF&center=true&vCenter=true&width=700&lines=DARK-STAR+TERMUX+LOADER;ANIME+POWERED+AUTOMATION;FAST+%7C+SMART+%7C+DEADLY" />
+</p><p align="center">
+  <img src="https://img.shields.io/github/stars/Darkstar-xd/DARK-STAR-TERMUX-LOADER?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/Darkstar-xd/DARK-STAR-TERMUX-LOADER?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Facebook-Automation-green?style=for-the-badge">
+</p>
+
 ## 🚀 How to Run
 
 Copy this command:
