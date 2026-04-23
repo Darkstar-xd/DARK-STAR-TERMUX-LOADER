@@ -74,7 +74,7 @@ Enter Your Facebook credentials
 ## 🔰 Darkstar Loader Features
 
 🔰 Version: 𝟵.𝟬𝟴.𝟬𝟬𝟭\
-🔰 Developer: SAHIL KHAN\
+🔰 Developer: Sahiil\
 🔰 Language: Python + Cython (.so Optimized)\
 🔰 Platform: Termux / Android / Linux
 
@@ -94,13 +94,6 @@ Enter Your Facebook credentials
 
 ✔ Page Token Extractor -- Fetches access tokens of managed pages
 
-
-✔ IP & Time -- Shows location, date & time
-
-✔ Password Protected Access
-
-✔ Approval System (one-time device approval)
-
 ✔ Superfast Running Support
 
 ------------------------------------------------------------------------
@@ -114,26 +107,11 @@ pip install -r requirements.txt
 termux-setup-storage
 ```
 
-
-
-------------------------------------------------------------------------
-
-## 📁 FILES
-
-✔ Run.py -- Launcher script
-
-
-✔ requirements.txt -- All Python dependencies
-
-✔ Readme.txt / README.md -- Guide and usage info
-
 ------------------------------------------------------------------------
 
 ## 💬 NOTES
 
 🔹 All features are packed in one tool
-
-🔹 First run requires approval, then works offline
 
 🔹 Designed for educational and ethical use only
 
