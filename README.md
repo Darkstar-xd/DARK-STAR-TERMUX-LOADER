@@ -75,7 +75,7 @@ Enter Your Facebook credentials
 
 🔰 Version: 𝟵.𝟬𝟴.𝟬𝟬𝟭\
 🔰 Developer: Sahiil\
-🔰 Language: Python + Cython (.so Optimized)\
+🔰 Language: Python\
 🔰 Platform: Termux / Android / Linux
 
 ------------------------------------------------------------------------
