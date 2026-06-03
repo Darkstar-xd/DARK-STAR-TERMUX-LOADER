@@ -1,6 +1,7 @@
 pyfiglet
 colorama
 requests
+halo
 rich
 pyotp
 pycryptodome
