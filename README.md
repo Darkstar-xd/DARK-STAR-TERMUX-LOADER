@@ -43,7 +43,8 @@ python Run.py
 
 # 📸 Image
 
-<img width="719" height="1298" alt="1000236387" src="https://github.com/user-attachments/assets/c586672f-0f18-4e8e-8b67-5e1c0b0aab75" />
+
+<img width="719" height="1285" alt="1000281495" src="https://github.com/user-attachments/assets/e3d79962-14d4-4763-aa60-45069f69876f" />
 
 
 ------------------------------------------------------------------------
